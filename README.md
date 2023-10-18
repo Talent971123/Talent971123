@@ -12,25 +12,26 @@
 
 ## Hi 👋, Senior Web & Mobile Developer!
 
-Senior full-stack developer with 10+ years of experience building high performing presentations, layers, reusable components and performance optimization with React.js, Redux, Next- JavaScript, HTML, CSS, back-end with Node.js. Specialized in developing 20+ useful, well-constructed websites and applications using React.js and Node.js. 
-Enough experience in Blockchain Technologies like DeFi, DAO, Crypto, Ethereum, Avalanche, Solidity, Solana, web3.js, Smart Contracts (NFT/ERC20/ERC721), ICO/IEO, Exchange Platforms and NFT marketplace. Experience in SQL programming language in MySQL, OraclePL/SQL and other database environments like MongoDB and PostgreSQL.
-Able to effectively self-manage during independent projects, as well as leading and collaborating with team members on often time sensitive, different time zone (PST, EST), challenging web & blockchain projects that require outstanding creative and technical capabilities.
+Senior Front-End Developer with 5+ years of proven leadership and meaningful contributions to teams of varying size and scope.
+Collaborating with a variety of companies which made me intimately familiar with modern web technologies like React, Angular, and Vue, and have built a number of smart, responsive websites.
+Passionate about going the extra mile to ensure the customer is unquestionably satisfied with the product or service provided.
 
-Over the course of 10 years I have worked with a vast amount of technologies.
+
+Over the course of 5+ years I have worked with a vast amount of technologies.
 
 Main Skills:
 - Blockchain, Crypto, Solidity, Smart contract (ERC20, ERC721), NFT, web3.js, ether.js, Dapp, DAO, Defi, NFT, NFT marketplace, Opensea
 - React, React Hooks, React Context, 
 - Tailwind CSS, Material-UI, Bootstrap
 - GraphQL, Apollo
-- Node.js, Express.js, Hapi.js
+- Node.js, Express.js
 - PHP, Wordpress, Laravel, Shopify, Yii, Symfony, Mangeto
 - MongoDB, Mysql, PostgreSQL, DynamoDB, Google Apps
 - AWS, DigitalOcean, Heroku 
 
-I'm full time developer. Please contact me at ctiptopper@gmail.com
+I'm full time developer. Please contact me at cheeyongchang1123@outlook.sg
 
-<a href="https://app.daily.dev/kogutstt2"><img align="right" src="https://api.daily.dev/devcards/e3f23db2a74e4af8b160a132c3d18f6b.png?r=y90" width="400" alt="Software Engineer's Dev Card"/></a></a>
+
 
 ## ⚡️ A Few Quick Facts
 
