@@ -10,7 +10,7 @@
  Let's go beyond our limits<br>
 </p>
 
-## Hi 👋, Senior Blockchain and Frontend Developer
+## Hi 👋, Senior Blockchain and Fullstack Developer
 
 Senior Front-End Developer with 5+ years of proven leadership and meaningful contributions to teams of varying size and scope.
 Collaborating with a variety of companies which made me intimately familiar with modern web technologies like React, Angular, and Vue, and have built a number of smart, responsive websites.
