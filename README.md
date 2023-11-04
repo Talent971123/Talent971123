@@ -12,7 +12,7 @@
 
 ## Hi 👋, Senior Blockchain and Fullstack Developer
 
-Senior Front-End Developer with 5+ years of proven leadership and meaningful contributions to teams of varying size and scope.
+Senior FullStack Developer with 5+ years of proven leadership and meaningful contributions to teams of varying size and scope.
 Collaborating with a variety of companies which made me intimately familiar with modern web technologies like React, Angular, and Vue, and have built a number of smart, responsive websites.
 Passionate about going the extra mile to ensure the customer is unquestionably satisfied with the product or service provided.
 
