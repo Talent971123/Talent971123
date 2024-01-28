@@ -29,9 +29,6 @@ Main Skills:
 - MongoDB, Mysql, PostgreSQL, DynamoDB, Google Apps
 - AWS, DigitalOcean, Heroku 
 
-I'm full-time developer. Please contact me at gentleman21123@outlook.com
-
-
 
 ## ⚡️ A Few Quick Facts
 
