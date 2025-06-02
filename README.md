@@ -17,7 +17,7 @@ Collaborating with a variety of companies which made me intimately familiar with
 Passionate about going the extra mile to ensure the customer is unquestionably satisfied with the product or service provided.
 
 
-Over 5+ years I have worked with a vast amount of technologies.
+Over 10+ years I have worked with a vast amount of technologies.
 
 Main Skills:
 - Blockchain, Crypto, Solidity, Smart contract (ERC20, ERC721), NFT, web3.js, ether.js, Dapp, DAO, Defi, NFT, NFT marketplace, Opensea
